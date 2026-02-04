@@ -1,0 +1,47 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "course-algorithms",
+      "description": "Algorithms and Data Structures Course",
+      "imageUrl": "https://picsum.photos/seed/algo/600/400",
+      "imageHint": "algorithm computer"
+    },
+    {
+      "id": "course-react",
+      "description": "Mastering React for Interviews",
+      "imageUrl": "https://picsum.photos/seed/react/600/400",
+      "imageHint": "react programming"
+    },
+    {
+      "id": "course-python",
+      "description": "Python for Data Science",
+      "imageUrl": "https://picsum.photos/seed/python/600/400",
+      "imageHint": "python code"
+    },
+    {
+      "id": "project-e-commerce",
+      "description": "E-commerce Microservices Project",
+      "imageUrl": "https://picsum.photos/seed/shop/600/400",
+      "imageHint": "shopping online"
+    },
+    {
+      "id": "project-task-manager",
+      "description": "Real-time Task Manager",
+      "imageUrl": "https://picsum.photos/seed/task/600/400",
+      "imageHint": "management interface"
+    },
+    {
+      "id": "user-avatar-1",
+      "description": "User profile 1",
+      "imageUrl": "https://picsum.photos/seed/u1/100/100",
+      "imageHint": "person face"
+    },
+    {
+      "id": "user-avatar-2",
+      "description": "User profile 2",
+      "imageUrl": "https://picsum.photos/seed/u2/100/100",
+      "imageHint": "person face"
+    }
+  ]
+}
