@@ -8,7 +8,7 @@ Built for clarity, performance, and developer focus — Code Pulse blends proble
 
 Code Pulse enables users to:
 
-Practice curated coding challenges
+Practice  curated coding challenges
 
 Write, compile, and run code directly in the browser
 
